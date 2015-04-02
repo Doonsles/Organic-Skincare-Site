@@ -24,3 +24,9 @@
   top: -30px;
   color: #000000;
 }
+
+.email-signup-form {
+  position: absolute;
+  left: 35%;
+  top: 52%;
+}
