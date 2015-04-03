@@ -25,8 +25,24 @@
   color: #000000;
 }
 
+.find-out {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 33%;
+  top: 336px;
+  color: #99a3a3;
+}
+
 .email-signup-form {
   position: absolute;
   left: 35%;
   top: 52%;
+}
+
+.join-button {
+  color: #75cf75;
+  position: relative;
+  top: -17px;
+  left: 127px;
 }
