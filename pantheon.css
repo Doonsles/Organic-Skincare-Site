@@ -53,3 +53,12 @@
 .email-field {
   width: 194px !important;
 }
+
+.button-border {
+  border: 1px solid Blue;
+  height: 35px;
+  width: 39px;
+  top: 12px;
+  left: 206px;
+  position: absolute;
+}
