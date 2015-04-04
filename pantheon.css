@@ -39,3 +39,9 @@
   left: 46%;
   top: 59%;
 }
+
+.button {
+  background-color: #FFFFFF;
+  color: #75cf75 !important;
+  border-color: #75cf75;
+}
