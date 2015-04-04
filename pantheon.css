@@ -46,7 +46,7 @@
   border: 2px !important;
   border-color: #75cf75 !important;
   top: 12px;
-  left: 206px;
+  left: 222px;
   position: absolute
 }
 
@@ -55,10 +55,9 @@
 }
 
 .button-border {
-  border: 1px solid Blue;
-  height: 35px;
-  width: 39px;
-  top: 12px;
-  left: 206px;
-  position: absolute;
-}
+  border: 1px solid #75cf75;
+    height: 32px;
+    width: 80px;
+    top: 11px;
+    left: 221px;
+    position: absolute;
