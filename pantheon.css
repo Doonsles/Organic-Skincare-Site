@@ -43,9 +43,13 @@
 .join-button {
   background-color: #FFFFFF !important;
   color: #75cf75 !important;
-  border: 2 !important;
+  border: 2px !important;
   border-color: #75cf75 !important;
   top: 12px;
   left: 206px;
   position: absolute
+}
+
+.email-field {
+  width: 194px !important;
 }
