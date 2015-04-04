@@ -40,10 +40,10 @@
   top: 59%;
 }
 
-.button {
-  background-color: #FFFFFF;
+.join-button {
+  background-color: #FFFFFF !important;
   color: #75cf75 !important;
-  border-color: #75cf75;
+  border-color: #75cf75 !important;
   top: 12px;
   left: 206px;
   position: absolute
