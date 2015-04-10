@@ -28,6 +28,8 @@
 }
 
 .email-signup-form {
+  position: relative;
+  left: -3%;
 }
 
 .join-button {
