@@ -1,7 +1,6 @@
 .logo {
   position: absolute;
-  top: -9%;
-  left: 1%;
+  height: 13%;
 }
 
 .splash-info {
@@ -19,25 +18,18 @@
 .splash-decription {
   font-family: 'Noto Sans', sans-serif;
   font-size: 121%;
-/*  position: absolute;*/
-/*  top: 63%;*/
-/*  width: 207%;*/
   color: #000000;
 }
 
 .find-out {
   font-family: 'Noto Sans', sans-serif;
   font-size: 129%;
-  position: relative;
-  left: 14%;
-  top: 377px;
   color: #99a3a3;
 }
 
 .email-signup-form {
-  position: absolute;
-  left: 14%;
-  top: 64%;
+  left: 15%;
+  top: 59%;
 }
 
 .join-button {
@@ -45,9 +37,9 @@
   color: #96C8A2 !important;
   border: 2px !important;
   border-color: #96C8A2 !important;
-  top: 12px;
-  left: 222px;
-  position: absolute
+/*  top: 12px;
+  left: 222px;*/
+/*  position: absolute*/
 }
 
 .email-field {
@@ -58,7 +50,7 @@
   border: 1px solid #96C8A2;
   height: 32px;
   width: 80px;
-  top: 11px;
-  left: 221px;
-  position: absolute;
+/*  top: 11px;
+  left: 221px;*/
+/*  position: absolute;*/
 }
